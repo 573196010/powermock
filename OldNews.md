@@ -1,0 +1,22 @@
+  * 2014-11-27: PowerMock 1.6.0 has been released with support for Mockito 1.10 as well as delegating the [PowerMockRunner to another JUnit Runner](JUnit_Delegating_Runner.md). Big thanks to Henrik Kaipe for the excellent pull request. See [change log](https://raw.githubusercontent.com/jayway/powermock/master/changelog.txt) for details.
+  * 2014-09-04: PowerMock 1.5.6 has been released with bug fixes and improvements. See [change log](https://raw.githubusercontent.com/jayway/powermock/master/changelog.txt) for details.
+  * 2014-05-28: We have finally moved PowerMock's source code to [github](https://github.com/jayway/powermock)!  This will hopefully lead to more pull requests and issues being fixed by the community.
+  * 2014-05-28: PowerMock 1.5.5 has been released. See [change log](https://raw.githubusercontent.com/jayway/powermock/master/changelog.txt) for details.
+  * 2014-02-17: PowerMock has support for OSGi by using an <a href='https://code.google.com/p/powermock-osgi/'>external project</a> maintained by Gabor Liptak. Big thanks for all your help!
+  * 2014-01-29: PowerMock 1.5.4 has been released. See [change log](https://raw.githubusercontent.com/jayway/powermock/master/changelog.txt) for details.
+  * 2014-01-10: PowerMock 1.5.3 has been released with dependency updates and some bug fixes. See [change log](https://raw.githubusercontent.com/jayway/powermock/master/changelog.txt) for details.
+  * 2013-11-19: PowerMock 1.5.2 has been released with support for EasyMock 3.2 and various fixes. See [change log](http://powermock.googlecode.com/svn/trunk/changelog.txt) for details.
+  * 2013-06-19: PowerMock 1.5.1 has been released. See [change log](http://powermock.googlecode.com/svn/trunk/changelog.txt) for details.
+  * 2013-03-05: Johan blogs about the PowerMock stubbing API support at the Jayway [blog](http://www.jayway.com/2013/03/05/beyond-mocking-with-powermock/).
+  * 2012-12-04: PowerMock 1.5 has finally been released with better support for Java 7 and support for Mockito 1.9.5. Big thanks to the community for helping out with bug fixes and bug tracking. See [change log](http://powermock.googlecode.com/svn/trunk/changelog.txt) for more details.
+  * 2012-04-05: PowerMock 1.4.12 has been released. See [change log](http://powermock.googlecode.com/svn/trunk/changelog.txt) for details.
+  * 2012-01-05: PowerMock 1.4.11 has been released. See [change log](http://powermock.googlecode.com/svn/trunk/changelog.txt) for details.
+  * 2011-08-23: PowerMock 1.4.10 has been released. See [change log](http://powermock.googlecode.com/svn/trunk/changelog.txt) for details.
+  * 2011-05-19: Johan blogs about the experimental [Java agent](PowerMockAgent.md) support in 1.4.9 at the Jayway [blog](http://blog.jayway.com/2011/05/19/powermock-for-integration-testing/).
+  * 2011-05-02: PowerMock 1.4.9 has been released with experimental support for bootstrapping using a [Java agent](PowerMockAgent.md) to avoid classloading issues, better TestNG support and various other fixes. See [change log](http://powermock.googlecode.com/svn/trunk/changelog.txt) for details.
+  * 2011-02-26: PowerMock 1.4.8 has been released, see [change log](http://powermock.googlecode.com/svn/trunk/changelog.txt) for details.
+  * 2010-12-28: Johan blogs on how to use PowerMock with unsupported frameworks such as JMock at the Jayway [blog](http://blog.jayway.com/2010/12/28/powermock-with-unsupported-frameworks-such-as-jmock/).
+  * 2010-12-28: Johan blogs about the JUnit Rule support in 1.4.7 at the Jayway [blog](http://blog.jayway.com/2010/12/28/using-powermock-with-spring-integration-testing/).
+  * 2010-12-28: PowerMock 1.4.7 has been released, see [change log](http://powermock.googlecode.com/svn/trunk/changelog.txt) for details.
+  * 2010-10-14: PowerMock 1.4.6 has been released and is now **available in the Maven Central** repository. The groupId has changed for most artifacts, have a look at the [getting started page](GettingStarted.md) for information. Please refer to the [change log](http://powermock.googlecode.com/svn/trunk/changelog.txt) for other details.
+  * 2010-08-30: PowerMock 1.4.5 has been released. Please refer to the [release notes](ReleaseNotes145.md) for more information.
